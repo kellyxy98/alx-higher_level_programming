@@ -1,1 +1,1 @@
-task on doubly linked lists
+doubly linked lists
